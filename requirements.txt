@@ -1,0 +1,6 @@
+streamlit
+os
+sys
+numpy==1.22
+librosa
+sounddevice 
